@@ -137,7 +137,7 @@ public class MainActivity extends AppCompatActivity {
             vp.addView(view, 0);
             return view;
 
-            
+
         }
 
         @Override
